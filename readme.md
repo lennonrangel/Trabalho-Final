@@ -15,7 +15,7 @@ O projeto é um site que busca combinar elementos visuais cativantes e uma estru
 - Botão de Chat: O botão de chat na parte inferior direita é um convite para interação, proporcionando uma experiência mais dinâmica para os usuários.
 
 <div align="center">
-  <br><img src="https://media.discordapp.net/attachments/1002050908156334082/1181760682077720667/Captura_de_tela_2023-12-05_214458.png?ex=65823b66&is=656fc666&hm=84eabdd92ea3aeea696a866260c1d1e6e6f6305c6d585dbd749cdfbdf8b370df&=&format=webp&quality=lossless&width=942&height=468" aling=center>
+  <br><img src="https://github.com/user-attachments/assets/604952b3-0858-42e0-a890-1fab5617b882" aling=center>
 </div>
 
 ## Personalização
